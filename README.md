@@ -1,8 +1,8 @@
 # Flesh and Blood: Living Legend points per class
 
 Weekly charts of the adult Flesh and Blood heroes and their Living Legend (LL)
-points, grouped by hero class. A GitHub Action updates the charts, the CSV files
-and the table below every Monday.
+points, grouped by hero class. A scheduled Claude task updates the charts, the
+CSV files and the table below every week.
 
 ## Adult heroes per class
 
