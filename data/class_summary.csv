@@ -1,0 +1,13 @@
+class,heroes_living_legend,heroes_active,heroes_not_yet_released,heroes_total,ll_points_living_legend_heroes,ll_points_leaderboard_heroes,ll_points_total
+Assassin,2,4,2,8,2067,904,2971
+Brute,1,4,0,5,1014,732,1746
+Guardian,3,6,0,9,3801,1358,5159
+Illusionist,4,1,0,5,4250,29,4279
+Mechanologist,2,3,2,7,2017,347,2364
+Necromancer,0,2,0,2,0,629,629
+Ninja,3,2,0,5,3136,960,4096
+Pirate,0,3,0,3,0,723,723
+Ranger,2,2,2,6,2312,154,2466
+Runeblade,5,3,0,8,5356,332,5688
+Warrior,1,5,0,6,1048,1862,2910
+Wizard,4,1,0,5,4072,20,4092
