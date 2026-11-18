@@ -19,22 +19,22 @@ The same numbers as the charts. The full data is in
 [`data/heroes.csv`](data/heroes.csv) (one row per hero).
 
 <!-- class-summary:start -->
-_Data as of 2026-11-11._
+_Data as of 2026-11-18._
 
 | Class | LL heroes | Active heroes | Not yet released | Total heroes | LL points (LL heroes) | LL points (active heroes) | Total LL points |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | Runeblade | 5 | 3 | 0 | 8 | 5,356 | 332 | 5,688 |
-| Guardian | 3 | 6 | 0 | 9 | 3,801 | 1,358 | 5,159 |
+| Guardian | 3 | 6 | 0 | 9 | 3,801 | 1,368 | 5,169 |
 | Illusionist | 4 | 1 | 0 | 5 | 4,250 | 29 | 4,279 |
 | Ninja | 3 | 2 | 0 | 5 | 3,136 | 960 | 4,096 |
 | Wizard | 4 | 1 | 0 | 5 | 4,072 | 20 | 4,092 |
 | Assassin | 2 | 4 | 2 | 8 | 2,067 | 904 | 2,971 |
-| Warrior | 1 | 5 | 0 | 6 | 1,048 | 1,862 | 2,910 |
+| Warrior | 1 | 5 | 0 | 6 | 1,048 | 1,882 | 2,930 |
 | Ranger | 2 | 2 | 2 | 6 | 2,312 | 154 | 2,466 |
-| Mechanologist | 2 | 3 | 2 | 7 | 2,017 | 347 | 2,364 |
-| Brute | 1 | 4 | 0 | 5 | 1,014 | 732 | 1,746 |
-| Pirate | 0 | 3 | 0 | 3 | 0 | 723 | 723 |
-| Necromancer | 0 | 2 | 0 | 2 | 0 | 629 | 629 |
+| Mechanologist | 2 | 3 | 2 | 7 | 2,017 | 362 | 2,379 |
+| Brute | 1 | 4 | 2 | 7 | 1,014 | 807 | 1,821 |
+| Pirate | 0 | 3 | 0 | 3 | 0 | 733 | 733 |
+| Necromancer | 0 | 2 | 0 | 2 | 0 | 639 | 639 |
 <!-- class-summary:end -->
 
 ## How the data is built
